@@ -1,3 +1,1 @@
-I'm Hexes.
-
-I write code that solves problems.
+Solving my own minor inconveniences through code...
